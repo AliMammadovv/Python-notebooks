@@ -1,2 +1,2 @@
-# Python-notebooks
+# Practised codes
 Random code samples
